@@ -1,4 +1,4 @@
-# Agência de Viagem 🌍 - Página Web Interativa
+# Agência de Viagem 🌍 
 
 > Este projeto visa criar uma **página de agência de viagens** com um layout moderno e responsivo, utilizando HTML, CSS e JavaScript. A página tem como objetivo fornecer aos usuários uma experiência visual atraente e facilitar a navegação entre destinos populares, pacotes promocionais e a busca por viagens.
 
